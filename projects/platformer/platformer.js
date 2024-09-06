@@ -48,7 +48,7 @@ createPlatform(775, 500, 170, 8)
 createPlatform(600, 450, 155, 8)
 createPlatform(1000, 630, 155, 8)
 
-createPlatform(550, 228, 10, 120)
+createPlatform(550, 235, 10, 120)
 createPlatform(1200, 500, 10, 1000)
 
     
