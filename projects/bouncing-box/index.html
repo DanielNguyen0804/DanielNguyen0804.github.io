@@ -79,6 +79,13 @@
 			/*increase position x by 10 frames here*/
 				positionX = positionX + speed
 				moveBoxTo(positionX)
+				if (positionX > boardWidth) {
+					speed = speed * -1
+				}
+
+				if (positionX <= 0) {
+					spped = speed * 1
+				}
 				
 			};
 
